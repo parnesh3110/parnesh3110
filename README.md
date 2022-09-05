@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @parnesh3110
-- 👀 I’m interested in ML, Blockchain
-- 🌱 I’m currently learning Computer Science
+- 👀 I’m interested in ML.
+- 🌱 I’m currently learning Computer Science.
 - 💞️ I’m looking to collaborate on any project you have.
+- 👨🏻‍💻 Currently working with Dassault Systemes as a software developer.
 - 📫 How to reach me parnesh3110@gmail.com
 
 <!---
